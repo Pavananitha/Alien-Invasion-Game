@@ -1,4 +1,4 @@
-# Alien-Invasion-Game
+<img width="1440" alt="Screenshot 2025-06-23 at 8 20 57 PM" src="https://github.com/user-attachments/assets/45e9cbe9-31f2-499c-b16c-17edbb12225a" /># Alien-Invasion-Game
 Alien Invasion Desktop Game Using python language
 
 # 👾 Alien Invasion - Desktop Game using Pygame
@@ -53,6 +53,5 @@ alien_invasion/
 └── images/               # Folder for game assets (ship, aliens, background)
 
 
-SCREENSHOTS:
 
 
